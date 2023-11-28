@@ -1,29 +1,32 @@
-Prueba técnica del ingeniero Sr. Flutter
-En esta prueba, se espera que pueda completar todas las secciones en 1 hora y responder minuciosamente a las preguntas técnicas con la máxima capacidad de sus habilidades.
+# Sr. Flutter engineer technical test
 
-En esta evaluación, nos centraremos en el conocimiento fundamental de la ingeniería de software y el marco Flutter.
+In this test, it is expected that you can complete all sections in 1 hours and thorughly respond to technical questions
+to the fullest of your abilities.
 
-Descripción
-Utilizando una API pública y un diseño proporcionado, se debe crear una aplicación en la que se utilizarán los siguientes temas:
+In this evaluation, we will focus on the fundamental knowledge of software engineering and the Flutter framework.
 
-Principios de diseño y SÓLIDO
-Trabajar con API
-Principios de gestión estatal
-Pruebas y CI/CD
-Análisis en producción
-Evaluación
-También se evaluará:
+## Description
 
-Calidad, legibilidad y documentación del código.
-Convenciones de códigos de idiomas.
-Consideraciones de rendimiento.
-Acerca de
-Como parte de nuestro compromiso de brindar las herramientas necesarias, a continuación se adjunta documentación sobre los temas cubiertos en la prueba, sin embargo, se espera que el desarrollador investigue más a fondo y pueda brindar más conocimientos.
+Using a public API and a provided design, an application must be created in which the following themes will be used:
+- Design Principles and SOLID
+- Working with APIs
+- State Management Principles
+- Testing and CI/CD
+- Analytics in Production
 
-Principios SOLID aplicados a Dart
-Consumo de API
-Principios de gestión estatal
-Pruebas y CI/CD
-Análisis en producción
-Nota:
-La prueba consta de los temas que se mencionaron anteriormente. Ningún punto de la prueba real será sobre nada que no se haya mencionado en este documento.
+## Assessment
+Will also be evaluated:
+- Quality, readability and documentation of the code.
+- Language code conventions.
+- Performance considerations.
+
+## About
+As part of our commitment to provide the necessary tools, documentation about the topics covered in the test is attached below, however, it is expected that the developer will investigate further and can provide more knowledge.
+- [SOLID Principles applied to Dart](https://medium.com/nerd-for-tech/solid-principles-in-a-flutter-32eaf7218476#:~:text=SOLID%20stands%20for%20Single%20Responsibility,practices%20and%20are%20very%20popular.)
+- [API consumption](https://www.linkedin.com/pulse/flutter-api-call-best-practices-building-efficient-reliable-saini)
+- [State Management Principles](https://docs.flutter.dev/data-and-backend/state-mgmt/options)
+- [Testing and CI/CD](https://dart.dev/guides/language/effective-dart)
+- [Analytics in Production](https://embrace.io/blog/top-flutter-monitoring-tools/)
+
+#### Note:
+- The test consists of the topics that were mentioned above. No point in the actual test will be about anything that has not been mentioned in this document.
